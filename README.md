@@ -4,33 +4,29 @@
 ## 悟空CRM介绍
 
 
-悟空CRM在中国的开源管理软件行业有较高的知名度。目前软件已达到千万级的用户量，开源系统下载量达到200多万次，已覆盖设计制造业、服务业、金融业、政府机构等多种行业。与阿里巴巴、腾讯、OPPO、航天信息、CCTV等多家知名企业达成战略合作。
+Wukong CRM has a high reputation in China's open source management software industry. At present, the software has reached tens of millions of users, and the download volume of the open source system has reached more than 2 million times, covering a variety of industries such as design manufacturing, service industry, finance, and government agencies. It has reached strategic cooperation with many well-known companies such as Alibaba, Tencent, OPPO, Aerospace Information, and CCTV.
 
-公司先后获得河南省高新技术企业、国家3A信用企业、IOS9001、IOS27001软件产品认证等20多项荣誉奖项。拥有50余项软件著作权。 获得20余家国内媒体报道。公司自成立以来，以高科技为起点，以技术为核心、 以完善的售后服务为后盾，秉承稳固与发展、求实与创新的精神，已为国内外上万家企业提供了服务。 在为实现企业价值最大化的过程中， 实现了自身的价值的提升，取得了最大程度的双赢合作，并获得了社会各界的广泛赞誉和认同。
+The company has successively won more than 20 honorary awards such as Henan High-tech Enterprise, National 3A Credit Enterprise, IOS9001, and IOS27001 Software Product Certification. It has more than 50 software copyrights. It has been reported by more than 20 domestic media. Since its establishment, the company has taken high technology as its starting point, technology as its core, and perfect after-sales service as its backing. Adhering to the spirit of stability and development, pragmatism and innovation, it has provided services to tens of thousands of companies at home and abroad. In the process of maximizing corporate value, it has achieved the improvement of its own value, achieved the greatest degree of win-win cooperation, and won wide praise and recognition from all walks of life.
 
-官网地址：[http://www.5kcrm.com](http://www.5kcrm.com/)
+Official website address: [http://www.5kcrm.com](http://www.5kcrm.com/)
 
-演示地址：(https://demo10.72crm.com/#/crm)  
-帐号：18688888888   密码：123456a
+Demo address: (https://demo10.72crm.com/#/crm)
 
-码云地址：[https://gitee.com/wukongcrm](https://gitee.com/wukongcrm)
+Account: 18688888888 Password: 123456a
 
-QQ群交流群群：[1026560336](http:////shang.qq.com/wpa/qunwpa?idkey=13d5e5809eb9feb350336e55c8b7a00b9cb472078b09b4441222a52dd76b278e)
+Code Cloud Address: [https://gitee.com/wukongcrm](https://gitee.com/wukongcrm)
 
+QQ Group Communication Group: [1026560336](http:////shang.qq.com/wpa/qunwpa?idkey=13d5e5809eb9feb350336e55c8b7a00b9cb472078b09b4441222a52dd76b278e)
 
-扫码添加小悟官方客服微信，邀您加入千人微信交流群：
+Scan the code to add Xiaowu official customer service WeChat, and invite you to join the WeChat communication group of thousands of people:
 
 <img src="https://images.gitee.com/uploads/images/2019/1231/115927_f9c580c8_345098.png" width="200">
 
-关注悟空CRM公众号，了解更多悟空资讯
+Follow Wukong CRM official account to learn more about Wukong
 
 <img src="https://images.gitee.com/uploads/images/2019/1202/135713_d3566c6a_345098.jpeg" width="200">
 
-
-
-
-
- :boom:  :boom:  :boom: 注：悟空CRM采用全新的前后端分离模式，本仓库代码中已集成前端vue打包后文件，  **可免去打包操作，无需运行前端** 。如需调整前端代码，请单独下载前端代码
+:boom: :boom: :boom: Note: Wukong CRM adopts a new front-end and back-end separation mode. The front-end vue packaged file has been integrated in this warehouse code, **you can avoid packaging operations and do not need to run the front-end** . If you need to adjust the front-end code, please download the front-end code separately
 
 
 (<a href="https://github.com/72wukong/72crm-11.0-web-JAVA" target="_blank">点击下载前端代码</a>) 
